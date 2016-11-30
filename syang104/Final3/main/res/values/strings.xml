@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicGame</string>
+    <string name="Title">Title</string>
+    <string name="Artist">Artist</string>
+
+    <string name="title_activity_play_music">PlayMusic</string>
+    <string name="Play_Pause">Play/Pause</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
